@@ -1,0 +1,5 @@
+Al ejecutar el servidor y probar las rutas:
+
+- En http://localhost:3000 aparece "Servidor activo".
+- En http://localhost:3000/saludo aparece "Hola comunidad".
+- En http://localhost:3000/mensaje/juan aparece "Hola juan", porque toma el nombre desde la URL.
